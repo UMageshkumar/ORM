@@ -44,7 +44,8 @@ class LoanAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-11-19 094157.png>)
+![Screenshot 2024-12-10 092927](https://github.com/user-attachments/assets/c2546836-0810-4268-83be-d7a6cec8afd8)
+
 Include the screenshot of your admin page.
 
 
